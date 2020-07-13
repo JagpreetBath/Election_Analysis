@@ -29,4 +29,4 @@ The script can be modified and used to analyze any elections. Following are two 
     - Add python input function that will allow the user to enter the file name and then run an analysis on the input file.
 2. Update the script and add another 'for' loop. Here are two scenarios that will require the script update to add another "for' loop:
     - Perform analysis for senatorial districts and local elections
-    - Perform analysis for presidential elections elections
+    - Perform analysis for presidential elections
