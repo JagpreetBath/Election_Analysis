@@ -23,10 +23,9 @@ The analysis of the election audit shows that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes
 
 ## Summary 
-The script can be modified and used to analyze any elections. 
-1. Following are two examples for modifying the script:
-    - Change the file_to_load(the file that contains election data). Two ways to change the file are: 
-    Change the current file name with the new file name that requires analysis.
+The script can be modified and used to analyze any elections. Following are two examples for modifying the script:
+1. Change the file_to_load(the file that contains election data). Two ways to change the file are: 
+    - Change the current file name with the new file name that requires analysis.
     - Add python input function that will allow the user to enter the file name and then run an analysis on the input file.
 2. Update the script and add another 'for' loop. Here are two scenarios that will require the script update to add another "for' loop:
     - Perform analysis for senatorial districts and local elections
